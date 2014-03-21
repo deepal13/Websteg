@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/28/trunk/src/main/java/edu/illuminaty/websteganography/hider/crawler/textelements
+END
+WordTextElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/28/trunk/src/main/java/edu/illuminaty/websteganography/hider/crawler/textelements/WordTextElement.java
+END
+CharacterTextElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/28/trunk/src/main/java/edu/illuminaty/websteganography/hider/crawler/textelements/CharacterTextElement.java
+END
+TextElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/22/trunk/src/main/java/edu/illuminaty/websteganography/hider/crawler/textelements/TextElement.java
+END

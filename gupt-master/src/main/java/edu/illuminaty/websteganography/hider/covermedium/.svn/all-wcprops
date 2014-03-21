@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/20/trunk/src/main/java/edu/illuminaty/websteganography/hider/covermedium
+END
+DummyCovertextCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/20/trunk/src/main/java/edu/illuminaty/websteganography/hider/covermedium/DummyCovertextCreator.java
+END
+CovertextFromPDFFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/20/trunk/src/main/java/edu/illuminaty/websteganography/hider/covermedium/CovertextFromPDFFile.java
+END
+CovertextCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/20/trunk/src/main/java/edu/illuminaty/websteganography/hider/covermedium/CovertextCreator.java
+END

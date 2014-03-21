@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/18/trunk/target/classes/edu/illuminaty/websteganography/util/fileaccess
+END
+ODTFileAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/18/trunk/target/classes/edu/illuminaty/websteganography/util/fileaccess/ODTFileAccessor.class
+END
+PDFFileAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/18/trunk/target/classes/edu/illuminaty/websteganography/util/fileaccess/PDFFileAccessor.class
+END

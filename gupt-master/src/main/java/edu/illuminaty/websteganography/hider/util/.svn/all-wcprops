@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/20/trunk/src/main/java/edu/illuminaty/websteganography/hider/util
+END
+URLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/20/trunk/src/main/java/edu/illuminaty/websteganography/hider/util/URLElement.java
+END
+WordElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20/trunk/src/main/java/edu/illuminaty/websteganography/hider/util/WordElement.java
+END
+PageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/20/trunk/src/main/java/edu/illuminaty/websteganography/hider/util/PageElement.java
+END
+CharacterElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/20/trunk/src/main/java/edu/illuminaty/websteganography/hider/util/CharacterElement.java
+END

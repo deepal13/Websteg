@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/18/trunk/target/classes/edu/illuminaty/websteganography/hider/util
+END
+WordElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/18/trunk/target/classes/edu/illuminaty/websteganography/hider/util/WordElement.class
+END
+CharacterElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/18/trunk/target/classes/edu/illuminaty/websteganography/hider/util/CharacterElement.class
+END
+PageElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/18/trunk/target/classes/edu/illuminaty/websteganography/hider/util/PageElement.class
+END
+URLElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/18/trunk/target/classes/edu/illuminaty/websteganography/hider/util/URLElement.class
+END
